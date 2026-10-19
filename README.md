@@ -39,6 +39,16 @@ pip install numpy matplotlib scikit-learn scikit-image
 python spectral_clustering.py
 ```
 
-### Expected Results
-The generated circular dataset is separated into two clusters. The coins image is smoothed, resized, and segmented into 25 clusters using Spectral Clustering.
+### Results
 
+#### 1. Generated Data — Before Spectral Clustering
+![Generated Data Before Spectral Clustering](spectral_data_before.png)
+
+#### 2. Generated Data — After Spectral Clustering
+![Generated Data After Spectral Clustering](spectral_data_after.png)
+
+#### 3. Coins Image — Before Spectral Clustering
+![Coins Image Before Spectral Clustering](spectral_image_before.png)
+
+#### 4. Coins Image — After Spectral Clustering
+![Coins Image After Spectral Clustering](spectral_image_after.png)
